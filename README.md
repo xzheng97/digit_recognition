@@ -1,5 +1,6 @@
 # digit_recognition
 It is a program that builds a 2-layer, feed-forward neural network and we trains it using the back-propagation algorithm.
+
 The neural network has one hidden layer. The network is fully
 connected between consecutive layers, meaning each unit, which we’ll call a node, in the input
 layer is connected to all nodes in the hidden layer, and each node in the hidden layer is connected
