@@ -1,6 +1,7 @@
 # digit_recognition
-a multi-class classification problem for recognizing images of handwritten digits
-java DigitClassifier <numHidden> <learnRate> <maxEpoch> <randomSeed><trainFile> <testFile>
+a multi-class classification problem for recognizing images of handwritten digits.   
+# Testing 
+java DigitClassifier <numHidden> <learnRate> <maxEpoch> <randomSeed><trainFile> <testFile><br/> 
 where trainFile, and testFile are the names of training and testing datasets,respectively. 
 numHidden specifies the number of nodes in the hidden layer (excluding the bias node at the hidden layer). 
 learnRate and maxEpoch are the learning rate and the number of epochs that the network will be trained, respectively.
